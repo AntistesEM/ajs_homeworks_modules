@@ -1,4 +1,4 @@
 // Webpack entry point
 
-import './js/scripts'
+import './js/app'
 import './css/style.css'
